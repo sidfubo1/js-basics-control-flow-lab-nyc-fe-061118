@@ -33,6 +33,8 @@ function switchOnCharmFromTip(z){
       return 'Thank you.'
       break;
       
-    
+    default:
+      return 'Bye.'
+      break;
   }
 }
