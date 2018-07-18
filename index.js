@@ -29,5 +29,6 @@ function switchOnCharmFromTip(z){
       return 'Thank you so much.'
       break;
     
+    case ''
   }
 }
