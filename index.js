@@ -3,7 +3,7 @@ function scuberGreetingForFeet(x){
   if (x<=400){
     return 'Free sample';
   }
-  else {
+  else if (x>2000){
     
   }
 }
