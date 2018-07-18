@@ -1,4 +1,9 @@
 // Write your code in this file!
-function scuberGreetingForFeet(){
-  if ()
+function scuberGreetingForFeet(x){
+  if (x<=400){
+    return 'Free sample';
+  }
+  else {
+    
+  }
 }
