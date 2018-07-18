@@ -1,7 +1,7 @@
 // Write your code in this file!
 function scuberGreetingForFeet(x){
   if (x<=400){
-    return 'Free sample';
+    return 'This one is on me!';
   }
   else if (x>2000){
     
