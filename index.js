@@ -14,7 +14,7 @@ function scuberGreetingForFeet(x){
 
 //ternaryCheckCity() — Use a ternary operator to return the correct response based on the desired destination of the passenger.
 function ternaryCheckCity(y){
-  if (y="NYC"){
+  if (y=='NYC'){
     return 'Ok, sounds good.';
   }
   else {
