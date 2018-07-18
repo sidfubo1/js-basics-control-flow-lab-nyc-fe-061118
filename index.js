@@ -12,4 +12,7 @@ function scuberGreetingForFeet(x){
   }
 }
 
-//
+//ternaryCheckCity() — Use a ternary operator to return the correct response based on the desired destination of the passenger.
+function ternaryCheckCity(){
+  
+}
