@@ -24,5 +24,8 @@ function ternaryCheckCity(y){
 
 //switchOnCharmFromTip() — Use a switch statement to return a different response based on the generosity of the passenger's tip.
 function switchOnCharmFromTip(){
-  
+  switch
+  case(){
+    
+  }
 }
