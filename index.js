@@ -29,6 +29,10 @@ function switchOnCharmFromTip(z){
       return 'Thank you so much.'
       break;
     
-    case ''
+    case 'not as generous':
+      return 'Thank you.'
+      break;
+      
+    
   }
 }
