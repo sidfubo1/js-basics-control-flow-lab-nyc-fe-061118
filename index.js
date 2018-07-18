@@ -21,3 +21,5 @@ function ternaryCheckCity(y){
     return 'No go.';
   }
 }
+
+//
